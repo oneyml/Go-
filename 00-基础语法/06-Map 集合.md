@@ -2,11 +2,11 @@
 
 Map 集合是无序的 key-value 数据结构。
 
-Map 集合中的 key / value 可以是任意类型，但所有的 key 必须属于同一数据类型，所有的 value 必须属于同一数据类型，key 和 value 的数据类型可以不相同。
+Map 集合中的 key / value 可以是任意类型，但所有的 key 必须属于同一数据类型，所有的 value 必须属于同一数据类型，key 和 value 的数据类型可以不相同…
 
 ## 声明 Map
 
-```
+```go
 //demo_14.go
 package main
 
@@ -49,7 +49,7 @@ func main() {
 
 ## 生成 JSON
 
-```
+```go
 //demo_15.go
 package main
 
@@ -96,7 +96,7 @@ func main() {
 
 ## 编辑和删除
 
-```
+```go
 //demo_16.go
 package main
 

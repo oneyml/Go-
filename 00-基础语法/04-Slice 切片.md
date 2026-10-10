@@ -6,7 +6,7 @@
 
 ## 声明切片
 
-```
+```go
 //demo_7.go
 package main
 
@@ -41,7 +41,7 @@ func main() {
 
 ## 截取切片
 
-```
+```go
 //demo_8.go
 package main
 
@@ -72,7 +72,7 @@ func main() {
 
 ## 追加切片
 
-```
+```go
 //demo_9.go
 package main
 
@@ -106,7 +106,7 @@ append 时，容量不够需要扩容时，cap 会翻倍。
 
 ## 删除切片
 
-```
+```go
 //demo_10.go
 package main
 

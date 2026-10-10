@@ -4,7 +4,7 @@
 
 ## 声明结构体
 
-```
+```go
 //demo_11.go
 package main
 
@@ -43,7 +43,7 @@ func main() {
 
 ## 生成 JSON
 
-```
+```go
 //demo_12.go
 package main
 
@@ -84,7 +84,7 @@ func main() {
 
 ## 改变数据
 
-```
+```go
 //demo_13.go
 package main
 
